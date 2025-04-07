@@ -26,6 +26,8 @@ def mean_number_of_words(paragraph: list[list[str]]) -> float:
     Returns:
         float: The mean number of words in the sentences, rounded to 2 decimal places.
     """
+    if not paragraph:
+        return 0.00
     
     return round(sum(map(lambda sent: len(sent), paragraph)) / len(paragraph), 2)
 
@@ -39,18 +41,21 @@ def test_2():
 
 def test_3():
     input = [['We', 'know', 'what', 'we', 'are'], ['But', 'know', 'not', 'what', 'we', 'may', 'be'], ['We', 'are', 'the', 'champions']]
-    assert mean_number_of_words(input) == 5.67
+    assert mean_number_of_words(input) == 5.33
 
 def test_4():
     input = []
     assert mean_number_of_words(input) == 0.00
 
-def test_4():
+def test_5():
     input = [['Hello', 'world']]
     assert mean_number_of_words(input) == 2.00
 
 if __name__ == "__main__":
     test_1()
     test_2()
+    test_3()
+    test_4()
+    test_5()
     print("All tests passed.")
 
