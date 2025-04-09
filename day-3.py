@@ -14,7 +14,7 @@ Test Case 2:
 Input: number=1674, max_steps=1
 Output: False
 Explanation: 1+6+7+4 = 18 (Step 1)
-1 step has been completed, and the sum of digits hasn’t been 1 or 9. So we stop execution here, and return False
+1 step has been completed, and the sum of digits hasn't been 1 or 9. So we stop execution here, and return False
 
 Test Case 3:
 Input: number=93, max_steps=4
