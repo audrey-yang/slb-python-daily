@@ -5,6 +5,7 @@ Difficulty: Hard
 Question: Write a program that prints the sand clock pattern.
 """
 
+
 def gen_sand_clock(n: int) -> None:
     """
     Print a sand clock pattern of size n (height n * 2)
@@ -17,11 +18,14 @@ def gen_sand_clock(n: int) -> None:
     print("* " * n, "*", sep="")
     for i in range(1, n):
         space_outer, space_inner = i, (2 * n) - (2 * i) - 1
-        print(" " * space_outer, "*", " " * space_inner, "*", " " * space_outer, sep="")
+        print(" " * space_outer, "*", " " * space_inner,
+              "*", " " * space_outer, sep="")
     for i in range(n - 1, 0, -1):
         space_outer, space_inner = i, (2 * n) - (2 * i) - 1
-        print(" " * space_outer, "*", " " * space_inner, "*", " " * space_outer, sep="")
+        print(" " * space_outer, "*", " " * space_inner,
+              "*", " " * space_outer, sep="")
     print("* " * n, "*", sep="")
+
 
 if __name__ == "__main__":
     print("SAND CLOCK, SIZE 3")

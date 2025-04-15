@@ -18,6 +18,7 @@ Output: -1
 Explanation: Initially, the middle element is checked. Since 1 isn't in the middle, there are 2 recursive calls - one to the left half, and one to the right. The left half gets the array [1, 2, 3], while the right half gets [4, 5, 6]. Now, each of their middle elements are 2 and 5 respectively. Now, they are going to be split again, but due to the constraint that the maximum number of API calls can be 2, it returns -1. NB: Assume that the limit is going to be an even number.
 """
 
+
 def approximate_binary_search(data: list[int], search_term: int, limit: int) -> int:
     """
     Perform an approximate binary search on a sorted list of integers within a certain number of steps.
@@ -51,11 +52,14 @@ def approximate_binary_search(data: list[int], search_term: int, limit: int) -> 
 
     return -1
 
+
 def test_1():
     assert approximate_binary_search([1, 2, 3, 4, 5, 6], 1, 2) == -1
 
+
 def test_2():
     assert approximate_binary_search([1, 2, 3, 4, 5, 6], 1, 4) == 0
+
 
 if __name__ == "__main__":
     test_1()

@@ -22,6 +22,7 @@ Output: False
 Explanation: 9+3=12 (Step 1), 1+2 = 3 (Step 2)
 """
 
+
 def solve_kaprekar(number: int, max_steps: int) -> bool:
     """
     Determine whether the function comes out to be a Kaprekar Number within the number of steps less than or equal to max_steps
@@ -47,26 +48,33 @@ def solve_kaprekar(number: int, max_steps: int) -> bool:
             return True
         if number < 10:
             return False
-    
+
     return False
+
 
 def test_1():
     assert solve_kaprekar(1, 3) is True
 
+
 def test_2():
     assert solve_kaprekar(1674, 1) is False
+
 
 def test_3():
     assert solve_kaprekar(1674, 2) is True
 
+
 def test_4():
     assert solve_kaprekar(93, 4) is False
+
 
 def test_5():
     assert solve_kaprekar(18, 1) is True
 
+
 def test_6():
     assert solve_kaprekar(7, 1600) is False
+
 
 if __name__ == "__main__":
     test_1()
