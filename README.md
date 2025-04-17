@@ -12,3 +12,4 @@ From the AI/ML SIG.
 | 6   | [The Art of Approximation](./day-6.py) |
 | 7   | [Spread](./day-7.py)                   |
 | 8   | [Python Question](./day-8.py)          |
+| 9   | [Elimination Walk](./day-9.py)         |
