@@ -11,3 +11,4 @@ From the AI/ML SIG.
 | 5   | [Create Acronyms](./day-5.py)          |
 | 6   | [The Art of Approximation](./day-6.py) |
 | 7   | [Spread](./day-7.py)                   |
+| 8   | [Python Question](./day-8.py)          |
