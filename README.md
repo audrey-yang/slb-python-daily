@@ -13,3 +13,4 @@ From the AI/ML SIG.
 | 7   | [Spread](./day-7.py)                   |
 | 8   | [Python Question](./day-8.py)          |
 | 9   | [Elimination Walk](./day-9.py)         |
+| 10  | [Manual Work](./day-10.py)             |
