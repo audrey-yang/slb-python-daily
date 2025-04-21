@@ -14,3 +14,4 @@ From the AI/ML SIG.
 | 8   | [Python Question](./day-8.py)          |
 | 9   | [Elimination Walk](./day-9.py)         |
 | 10  | [Manual Work](./day-10.py)             |
+| 11  | [Over Here](./day-11.py)               |
