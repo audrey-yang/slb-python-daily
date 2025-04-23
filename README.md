@@ -16,3 +16,4 @@ From the AI/ML SIG.
 | 10  | [Manual Work](./day-10.py)             |
 | 11  | [Over Here](./day-11.py)               |
 | 12  | [Minimum Greater](./day-12.py)         |
+| 13  | [Trace Violations](./day-13.py)        |
