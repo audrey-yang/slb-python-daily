@@ -15,3 +15,4 @@ From the AI/ML SIG.
 | 9   | [Elimination Walk](./day-9.py)         |
 | 10  | [Manual Work](./day-10.py)             |
 | 11  | [Over Here](./day-11.py)               |
+| 12  | [Minimum Greater](./day-12.py)         |
