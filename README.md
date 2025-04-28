@@ -19,3 +19,4 @@ From the AI/ML SIG.
 | 13  | [Trace Violations](./day-13.py)        |
 | 14  | [Locate Peak](./day-14.py)             |
 | 15  | [Heavy Rain Alert](./day-15.py)        |
+| 16  | [Operator Resolution](./day-16.py)     |
