@@ -20,3 +20,4 @@ From the AI/ML SIG.
 | 14  | [Locate Peak](./day-14.py)             |
 | 15  | [Heavy Rain Alert](./day-15.py)        |
 | 16  | [Operator Resolution](./day-16.py)     |
+| 17  | [RandoMaps](./day-17.py)               |
