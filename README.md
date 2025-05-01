@@ -22,3 +22,4 @@ From the AI/ML SIG.
 | 16  | [Operator Resolution](./day-16.py)     |
 | 17  | [RandoMaps](./day-17.py)               |
 | 18  | [Errata on Data](./day-18.py)          |
+| 19  | [Curve Ball](./day-19.py)              |
