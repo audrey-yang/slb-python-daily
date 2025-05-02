@@ -23,3 +23,4 @@ From the AI/ML SIG.
 | 17  | [RandoMaps](./day-17.py)               |
 | 18  | [Errata on Data](./day-18.py)          |
 | 19  | [Curve Ball](./day-19.py)              |
+| 20  | [Inverse Squares](./day-20.py)         |
