@@ -24,3 +24,4 @@ From the AI/ML SIG.
 | 18  | [Errata on Data](./day-18.py)          |
 | 19  | [Curve Ball](./day-19.py)              |
 | 20  | [Inverse Squares](./day-20.py)         |
+| 21  | [Confusion by Recursion](./day-21.py)  |
