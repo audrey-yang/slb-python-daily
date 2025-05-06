@@ -25,3 +25,4 @@ From the AI/ML SIG.
 | 19  | [Curve Ball](./day-19.py)              |
 | 20  | [Inverse Squares](./day-20.py)         |
 | 21  | [Confusion by Recursion](./day-21.py)  |
+| 22  | [Aadhaar Validation](./day-22.py)      |
