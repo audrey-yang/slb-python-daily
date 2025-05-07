@@ -26,3 +26,4 @@ From the AI/ML SIG.
 | 20  | [Inverse Squares](./day-20.py)         |
 | 21  | [Confusion by Recursion](./day-21.py)  |
 | 22  | [Aadhaar Validation](./day-22.py)      |
+| 23  | [Reverse in Place](./day-23.py)        |
