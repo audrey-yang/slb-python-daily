@@ -29,3 +29,4 @@ From the AI/ML SIG.
 | 23  | [Reverse in Place](./day-23.py)        |
 | 24  | [Collage](./day-24.py)                 |
 | 25  | [Difference Pairs](./day-25.py)        |
+| 26  | [T-Shirt Sizes](./day-26.py)           |
