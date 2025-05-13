@@ -30,3 +30,4 @@ From the AI/ML SIG.
 | 24  | [Collage](./day-24.py)                 |
 | 25  | [Difference Pairs](./day-25.py)        |
 | 26  | [T-Shirt Sizes](./day-26.py)           |
+| 27  | [Compare Strings](./day-27.py)         |
