@@ -32,3 +32,4 @@ From the AI/ML SIG.
 | 26  | [T-Shirt Sizes](./day-26.py)           |
 | 27  | [Compare Strings](./day-27.py)         |
 | 28  | [Variable Incorrigible](./day-28.py)   |
+| 29  | [Tail Match](./day-29.py)              |
