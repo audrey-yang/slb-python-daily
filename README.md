@@ -33,3 +33,4 @@ From the AI/ML SIG.
 | 27  | [Compare Strings](./day-27.py)         |
 | 28  | [Variable Incorrigible](./day-28.py)   |
 | 29  | [Tail Match](./day-29.py)              |
+| 30  | [Frequency Filter II](./day-30.py)     |
