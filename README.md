@@ -34,3 +34,4 @@ From the AI/ML SIG.
 | 28  | [Variable Incorrigible](./day-28.py)   |
 | 29  | [Tail Match](./day-29.py)              |
 | 30  | [Frequency Filter II](./day-30.py)     |
+| 31  | [Character Frequency Map](./day-31.py) |
