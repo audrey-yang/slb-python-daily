@@ -36,3 +36,4 @@ From the AI/ML SIG.
 | 30  | [Frequency Filter II](./day-30.py)     |
 | 31  | [Character Frequency Map](./day-31.py) |
 | 32  | [Prime Factorization](./day-32.py)     |
+| 33  | [Subarray Sum Equals K](./day-33.py)   |
