@@ -37,3 +37,4 @@ From the AI/ML SIG.
 | 31  | [Character Frequency Map](./challenges/day-31.py) |
 | 32  | [Prime Factorization](./challenges/day-32.py)     |
 | 33  | [Subarray Sum Equals K](./challenges/day-33.py)   |
+| 34  | [What's the output?](./challenges/day-34.py)      |
