@@ -38,3 +38,4 @@ From the AI/ML SIG.
 | 32  | [Prime Factorization](./challenges/day-32.py)     |
 | 33  | [Subarray Sum Equals K](./challenges/day-33.py)   |
 | 34  | [What's the output?](./challenges/day-34.py)      |
+| 35  | [Sliding Window Maximum](./challenges/day-35.py)  |
