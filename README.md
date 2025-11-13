@@ -41,3 +41,4 @@ From the AI/ML SIG.
 | 35  | [Sliding Window Maximum](./challenges/day-35.py)    |
 | 36  | [Armstrong Number Checker](./challenges/day-36.py)  |
 | 37  | [String Permutations Check](./challenges/day-37.py) |
+| 38  | [Majority Element](./challenges/day-38.py)          |
