@@ -42,3 +42,4 @@ From the AI/ML SIG.
 | 36  | [Armstrong Number Checker](./challenges/day-36.py)  |
 | 37  | [String Permutations Check](./challenges/day-37.py) |
 | 38  | [Majority Element](./challenges/day-38.py)          |
+| 39  | [Binary Tree Level Order](./challenges/day-39.py)   |
